@@ -17,7 +17,7 @@
   "name"                 :  "Website Quotation Images",
   "summary"              :  """Website Quotation Images permits you to add product images in the sales order and product quotation according to your need. Also, the sent invoice has the product images in the sales order or quotation. Apart from that, the customer preview also shows the product images. The Odoo admin can choose to show Odoo Website Quotation Images according to their requirement.""",
   "category"             :  "Website",
-  "version"              :  "1.0.1",
+  "version"              :  "1.0.2",
   "sequence"             :  1,
   "author"               :  "Webkul Software Pvt. Ltd.",
   "license"              :  "Other proprietary",
